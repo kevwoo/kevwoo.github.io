@@ -2,7 +2,7 @@
 title: The Kospi Downfall
 date: 2022-01-27 20:45:00 +0900
 categories: [Essay]
-tags: [KOSPI,KOSDAQ]
+tags: [KOSPI,KOSDAQ,en]
 author: Kevin
 ---
 

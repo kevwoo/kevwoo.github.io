@@ -18,7 +18,7 @@ No more liquidity party, so to speak.
 
 Emerging markets took the hit the most. KOSPI and KOSDAQ indices, five hours after Fed Chairman Powell's virtual conference, opened with gap down and dragged its already-lowest number to new low.
 
-![Into the the abyss we go!](/img/KOSPI_Downfall.png)
+![Into the the abyss we go!](/assets/KOSPI_Downfall.png)
 
 This is noticeable because people were expecting an influx of cash into the stock market as LG Energy Solution, World's No.2 battery maker, has listed on KOSPI. 
 

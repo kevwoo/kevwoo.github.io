@@ -1,11 +1,10 @@
 ---
 title: The Kospi Downfall
+date: 2022-01-27 20:45:00 +0900
 categories: [Essay]
 tags: [KOSPI,KOSDAQ]
 author: Kevin
 ---
-
-# The KOSPI Downfall
 
 The year 2022 is starting off as unprecedentedly weird on many sides, especially on economics.
 
@@ -19,7 +18,7 @@ No more liquidity party, so to speak.
 
 Emerging markets took the hit the most. KOSPI and KOSDAQ indices, five hours after Fed Chairman Powell's virtual conference, opened with gap down and dragged its already-lowest number to new low.
 
-![Into the the abyss we go!](_posts/img/KOSPI_Downfall.png)
+![Into the the abyss we go!](/img/KOSPI_Downfall.png)
 
 This is noticeable because people were expecting an influx of cash into the stock market as LG Energy Solution, World's No.2 battery maker, has listed on KOSPI. 
 

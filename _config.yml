@@ -19,9 +19,9 @@ timezone: Asia/Seoul
 
 title: KR Stock Talks # the main title
 
-tagline: Equity talks about KOSPI & KOSDAQ # it will display as the sub-title
+tagline: Equity talks KOSPI & KOSDAQ # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: Mostly about KR Stock talks and analysis & investment opportunities                       # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://kevwoo.github.io'

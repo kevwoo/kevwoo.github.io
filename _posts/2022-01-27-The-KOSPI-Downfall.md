@@ -12,7 +12,7 @@ The world is observing eye-popping inflations rates [here](https://www.bloomberg
 
 And yet, many doubt that the economy has fully recovered from covid-19. [The International Monetary Fund(IMF) has cut its prospective growth of global economy](https://www.aljazeera.com/economy/2022/1/25/recovery-disrupted-imf-cuts-global-economic-growth-forecast) and pandemic doesn't seem to end as more infectious Omicron variant cases show up.
 
-Yet, the Federal Reserve, partly under pressure from the Congress, announced its intention to raise Fed Funds Rate in the near future and halt its asset buying program in March. 
+In the middle of this bewildering signals, the Federal Reserve, partly under pressure from the Congress, announced its intention to raise Fed Funds Rate in the near future and halt its asset buying program in March. 
 
 No more liquidity party, so to speak. 
 

@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+This blog is more about jotting down my thought process on my investment strategy. 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Nothing written here should be taken as advice or recommendation on buying or seeling certain financial products. 
+
+For exchange in idea, I welcome you to [contact me](dnehdrbs@gmail.com).

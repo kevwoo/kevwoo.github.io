@@ -16,7 +16,7 @@ In the middle of this bewildering signals, the Federal Reserve, partly under pre
 
 No more liquidity party, so to speak. 
 
-Emerging markets took the hit the most. KOSPI and KOSDAQ indices, five hours after Fed Chairman Powell's virtual conference, opened with gap down and dragged its already-lowest number to new low.
+Emerging markets took the hit the most. KOSPI and KOSDAQ indices, five hours after Fed Chairman Powell's virtual conference, opened with gap down and closed with its already-lowest number to new low.
 
 ![Into the the abyss we go!](https://kevwoo.github.io/assets/KOSPI_Downfall.png)
 

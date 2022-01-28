@@ -24,4 +24,4 @@ This is noticeable because people were expecting an influx of cash into the stoc
 
 Many 'civilian' investors in Korea started trading stocks right after the pandemic started so they weren't familiar with this much fall and everybody started to sell with panic. 
 
-When the index will return to normal isn't something I am willing to answer right now, but it may take a month or two for investors to shake up their terror and grief from loss of money and return to market again. 
+When the index will return to normal isn't something I am willing to answer right now, but it seems likely that the investors may need a month or two to shake their terror and grief up from their loss. 
